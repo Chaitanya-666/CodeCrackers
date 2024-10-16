@@ -215,7 +215,7 @@ Try this exercise to practice the Git workflow:
 8. Recommit the changes with a different commit message.
 9. Force push the branch to update your pull request.
 
-## Adding Your Information
+## Adding Your Information  
 
 Please add your name and registration number below:
 
